@@ -1,0 +1,8 @@
+const MinesSVG=()=>{
+    return <svg width="10" height="2" viewBox="0 0 10 2" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect opacity="0.3" width="10" height="2" fill="#2E2E33"/>
+    </svg>
+
+}
+
+export default MinesSVG
